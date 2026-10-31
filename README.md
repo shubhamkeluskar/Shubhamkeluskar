@@ -157,7 +157,7 @@ flowchart LR
 I'm actively looking for a **Software Developer / Java Backend Developer** role where I can contribute to real production systems from day one and keep growing fast.
 
 📫 **Email:** [shubham57228@gmail.com](mailto:shubham57228@gmail.com)
-💼 **LinkedIn:** [linkedin.com/in/shubhamkeluskar](https://linkedin.com/in/shubhamkeluskar)
+💼 **LinkedIn:** [linkedin.com/in/shubhamkeluskar]([https://linkedin.com/in/shubhamkeluskar](https://www.linkedin.com/in/shubham-keluskar-16397b1a0/))
 📍 **Based in:** Mumbai, India (open to relocation and remote)
 
 <p align="center"><i>If you're hiring, I'd love to talk. I reply fast. 🚀</i></p>
